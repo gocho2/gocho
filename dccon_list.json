@@ -1,3 +1,4 @@
+/*
 {
   "dccons": [
     {"keywords" : ["우리핵박수2"], "tags": ["우리핵", "움짤"], "path": "https://i.postimg.cc/PrfRPZ0J/2.gif"},
@@ -7,3 +8,12 @@
 
 	]
 }
+
+*/
+
+dcConsData = [
+	
+	{"name":"r우리핵박수.png",           "keywords":["우리핵박수"],                      "tags":["북한"]},
+
+
+];
